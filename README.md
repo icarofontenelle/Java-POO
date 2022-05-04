@@ -1,2 +1,3 @@
 # Java-POO
- Projetos de lógica de programação na linguagem Java.
+ 
+ - Projetos na linguagem Java que exploram desde os conceitos mais básicos de lógica de programação, até os pilares de programação orientada a objetos.
